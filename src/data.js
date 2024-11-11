@@ -4,7 +4,7 @@ export const products = [
       id: 1,
       name: "Wireless Headphones",
       price: 120,
-      image: "https://images.pexels.com/photos/3739116/pexels-photo-3739116.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "https://m.media-amazon.com/images/I/411NxOSWI5L._AC_UY327_FMwebp_QL65_.jpg",
     },
     {
       id: 2,
@@ -40,7 +40,7 @@ export const products = [
       id: 7,
       name: "Digital Camera",
       price: 599,
-      image: "https://images.unsplash.com/photo-1539610318989-88406c7ba486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxOTcwMjR8MHwxfGFsbHwxfHx8fHx8fHwxNjgzNjAwMDM1&ixlib=rb-1.2.1&q=80&w=600",
+      image: "https://m.media-amazon.com/images/I/61JavBEclHL._AC_UY327_FMwebp_QL65_.jpg",
     },
     {
       id: 8,
